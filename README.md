@@ -1,2 +1,2 @@
 ### 🦌 thinkin bout those deer 🦌
-web design and 3D modelling
+web design, unity and 3D modelling
